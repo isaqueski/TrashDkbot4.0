@@ -2,10 +2,10 @@ const //database
 	return `
 ╔══✪〘 INFO 〙✪══
 ║
-╠➥ 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓
+╠➥ Nzf 𝐁𝐎𝐓
 ╠➥ *3.0*
-╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝐷𝐴𝑅𝐾⃖  ☔
-╠➥ *wa.me/+5522996215481*
+╠➥ 𝐃𝐎𝐍𝐎:Isaque
+╠➥ *wa.me/+5575998876451
 ╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ╠══✪〘 NOVIDADES 〙✪══
@@ -171,20 +171,6 @@ const //database
 ║130 *${prefix}animehug*
 ║131 *${prefix}shoturl*
 ║132 *${prefix}pokemon*
-║
-║
-╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
-║
-║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
-║ *INSTA: th.darkys*
-║ *WPP: wa.me/+5521997123716*
-║ *YOUTUBE: https://bit.ly/3qAjeNz*
-║
-║  *"Peita ou respeita 🐊🚩*
-║  *"kibadores, vão se fuder"*
-║
-║
-╚═〘 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓 〙`
 }
 
 //Online.database
